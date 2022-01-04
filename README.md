@@ -86,11 +86,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+Here In this project, a deep learning (`Transfer Learning`, `VGG16`, `CNN`) based model is developed for detecting masks over faces in public place to curtail community spread of Coronavirus is presented.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
+### Built With
+
+* [python 3.8.10]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
