@@ -57,8 +57,8 @@ its multiple uses in the areas of Law Enforcement Security purposes and other co
   ```
 
 ## Dowload dataset
-Download dataset from following link
-`https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/roshankumar_iisc_ac_in/EjzC-cZvH3hGuSyZqm1PABMBbDHkTUHRvmwfEN7d5tD0_g?e=AxwAfK`
+Download dataset `data` folder from following link
+`https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/roshankumar_iisc_ac_in/EiZV2gzJDW1MmBD6UyEmti4BSWey2VpbIy1UYhkv4pzU2Q?e=dy5K3A`
 
 ## Clone the Repo
    ```sh
@@ -68,7 +68,7 @@ Download dataset from following link
 ## Application: Detect Mask on Live Video feed-----(Laptop Camera)
 1. If you want to detect face mask in live stream through Laptop camera then 
 2. Download my trained model `FaceMaskDetection.h5` from this link
-`https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/roshankumar_iisc_ac_in/EeQO6Xjuz3ZNq284ocowi2UBv_2wGfVoOJKZ73mTqJDj5g?e=T3AW9z`
+`https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/roshankumar_iisc_ac_in/EiZV2gzJDW1MmBD6UyEmti4BSWey2VpbIy1UYhkv4pzU2Q?e=dy5K3A`
  and put it same folder as `Final.py` and `mediapipe_faceDetectionModule.py`.
 3. Run `Final.py`  
 
