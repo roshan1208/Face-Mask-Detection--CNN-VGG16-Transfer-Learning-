@@ -83,7 +83,7 @@ Download dataset from following link
 ## 1. Train on simple Convolution Network
  Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/roshan1208/Face-Mask-Detection--CNN-with-Transfer-Learning-.git
    ```
    ## or
  Open `FaceMaskDetection.ipynb` and Follow along as discuss in that file  
