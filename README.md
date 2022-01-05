@@ -91,7 +91,7 @@ Download dataset from following link
 1. If you want to detect face mask in live stream through Laptop camera then 
 2. Download my trained model `FaceMaskDetection.h5` from this link
 `https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/roshankumar_iisc_ac_in/EeQO6Xjuz3ZNq284ocowi2UBv_2wGfVoOJKZ73mTqJDj5g?e=T3AW9z`
- and put it same folder as `final.py` and `mediapipe_faceDetectionModule.py`.
+ and put it same folder as `Final.py` and `mediapipe_faceDetectionModule.py`.
 3. Run `Final.py`  
 
 ## 2. Train on InceptionV3 through Transfer Learning
