@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/roshan1208/Face-Mask-Detection--CNN-VGG16-Transfer-Learning-">
-    <img src="result.jpg" alt="Logo" width="280" height="280">
+    <img src="result.jpg" alt="Logo" width="640" height="480">
   </a>
 
 <h3 align="center">Face Mask Detection</h3>
