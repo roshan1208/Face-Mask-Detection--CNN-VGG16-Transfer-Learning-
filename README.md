@@ -32,13 +32,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/roshan1208/Face-Mask-Detection--CNN-VGG16-Transfer-Learning-">
-    <img src="result.jpg" alt="Logo" width="80" height="80">
+    <img src="result.jpg" alt="Logo" width="280" height="280">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Face Mask Detection</h3>
 
   <p align="center">
-    project_description
+    Face mask recognition has been growing rapidly after corona insistent last years for
+its multiple uses in the areas of Law Enforcement Security purposes and other commercial uses
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
