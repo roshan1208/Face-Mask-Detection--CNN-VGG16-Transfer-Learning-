@@ -92,7 +92,7 @@ Download dataset from following link
 2. Download my trained model `FaceMaskDetection.h5` from this link
 `https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/roshankumar_iisc_ac_in/EeQO6Xjuz3ZNq284ocowi2UBv_2wGfVoOJKZ73mTqJDj5g?e=T3AW9z`
  and put it same folder as `final.py` and `mediapipe_faceDetectionModule.py`.
-3. Run `final.py`  
+3. Run `Final.py`  
 
 ## 2. Train on InceptionV3 through Transfer Learning
 Open `FaceMaskDetection_With_InceptionV3.ipynb` and Follow along as discuss in that file  
